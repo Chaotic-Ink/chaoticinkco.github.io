@@ -1,2 +1,2 @@
 # chaoticinkco.github.io
-My business website
+Homepage for Chaotic Ink Co. a company by HB Designs.
